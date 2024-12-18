@@ -2,6 +2,8 @@
 
 This is an example project for the _Nuevos estándares en la web_ lesson in the _Master Universitario de Ingerniería Web_ of the _University of Oviedo_.
 
+This is the step 3 of the lesson, with a list of products and a wishlist.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
